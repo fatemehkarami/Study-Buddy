@@ -1,4 +1,4 @@
-<h1> User Stories </h1>
+<h1> Study Buddy </h1>
 
 <ol>
 
