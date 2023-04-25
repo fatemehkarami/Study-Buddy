@@ -1,4 +1,4 @@
-<h1> Study Buddy </h1>
+<h1> Study Review App </h1>
 
 <ol>
 
